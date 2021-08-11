@@ -1,0 +1,38 @@
+body {
+    background-color: #00408d;
+  }
+  
+  h1 {
+    color: blue;
+    text-align: center;
+ }
+  h2 {
+     color: blue;
+     text-align: center;
+  }
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    color: green;
+    text-align: center;
+    margin: 25px 50px 75px 100px;
+  }
+
+span a {
+  color: red;
+}
+
+div a {
+  color: #ffba00;
+}
+
+ td {
+    color:#ffba00;
+  }
+ 
+       
+ .nav li {
+        display: inline-block;
+        font-size: 20px;
+        padding: 20px;
+      }
